@@ -1,7 +1,7 @@
 Repo2013
 ========
 
-Nov 5 2013 trial repository
+Nov 5 2013 trial repository [ text appended *after* "first" change.
 
 This is a txt file (suffix .md) as a readme for demo project “Repo2013”
 
